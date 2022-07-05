@@ -1,0 +1,21 @@
+*
+{
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    outline:0;
+    border:0;
+    list-style: none;
+}
+
+.npmjs-ls-flexbox
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.npmjs-ls-flexbox>*
+{
+    padding: 1%;
+    margin:1%;
+}

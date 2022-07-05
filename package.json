@@ -1,0 +1,24 @@
+{
+  "name": "css-flex",
+  "version": "1.0.0",
+  "description": "a package for usage of css flex and common styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmjsls/tests.git"
+  },
+  "keywords": [
+    "css",
+    "flex",
+    "flex-box"
+  ],
+  "author": "npmjsls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmjsls/tests/issues"
+  },
+  "homepage": "https://github.com/npmjsls/tests#readme"
+}
